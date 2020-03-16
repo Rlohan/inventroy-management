@@ -1,0 +1,42 @@
+.App {
+  text-align: center;
+}
+
+.ProductDetails {
+  background: #007bff;
+  border-top-left-radius: 6px;
+  border-top-right-radius: 6px;
+  color: white;
+}
+.FormStyles {
+  background: white;
+  border-bottom-left-radius: 6px;
+  border-bottom-right-radius: 6px;
+}
+
+.ProductCount {
+  background: #dadada;
+  border-radius: 3px;
+  font-weight: bold;
+}
+label {
+  font-weight: bold;
+}
+
+.Border {
+  border: 1.5px solid #007bff;
+  background: white;
+  border-bottom-left-radius: 6px;
+  border-bottom-right-radius: 6px
+}
+
+.NabBar-Background{
+  background: #007bff;
+}
+
+a{
+  color:white !important
+}
+nav h2{
+  color:white !important
+}
